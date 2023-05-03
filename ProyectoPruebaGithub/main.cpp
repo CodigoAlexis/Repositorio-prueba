@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    int a=15,b=5;
+
+    cout<<"Suma: "<<a+b<<endl;
     return 0;
 }
